@@ -21,6 +21,7 @@ git config --global user.email "tucorreo@ejemplo.com"
 ----------verificar si quedo bien configurado local
 git config user.name
 git config user.email
+
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 ----------------------------------------------------------
 
@@ -68,5 +69,16 @@ git clone https://github.com/tu-usuario/tu-repo.git  para clonar el repositorio�
 ✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️
 git pull origin nombre-de-la-rama  /// actualizar la rama
 
+////////////////////////////////////////////////////////////////////////////////////////////////////
+git init
+git remote add origin https://github.com/tu-usuario/tu-repo.git  apunta el repo remoto
+git remote -v  // al ejecutar eto deberia ver asi
+--//origin  https://github.com/tu-usuario/tu-repo.git (fetch)
+---//origin  https://github.com/tu-usuario/tu-repo.git (push)
 
+git add .
+git commit -m "Primer commit"
+
+git push -u origin nombre-de-la-rama    teneiendo en cuenta que es la rama local la que va subir
+////////////////////////////////////////////////////////////////////////////////////////////////////////
 
