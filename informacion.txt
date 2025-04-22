@@ -82,6 +82,9 @@ git remote -v  // al ejecutar eto deberia ver asi
 git add .
 git commit -m "Primer commit"
 
+
+git push -u origin "tu rama"  ///esto ya sube al repositorio
+
 git push -u origin nombre-de-la-rama    teneiendo en cuenta que es la rama local la que va subir
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
