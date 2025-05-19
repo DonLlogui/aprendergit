@@ -1,0 +1,5 @@
+Ejecutar windows + R --> gpedit.msc
+ir a: Plantillas administrativas> Componentes de Windows> Windows PowerShell>
+Seleccionar Activar la ejecución de scripts, click derecho, Editar
+Seleccionar en Activar la ejecución de scripts (Habilitada) y en opciones: Directiva de ejecución (Permitir todos los scripts), despues Aplicar y Aceptar.
+Reinicia la terminal o VSCode y con eso ya debería poder ejecutar scripts el powershell. Saludos.
