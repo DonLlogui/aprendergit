@@ -68,7 +68,7 @@ git clone https://github.com/tu-usuario/tu-repo.git  para clonar el repositorio�
 ✈️git add .                               ✈️
 ✈️git commit -m "Tu mensaje de commit"    ✈️
 ✈️                                        ✈️
-✈️git push origin nombre-de-la-rama       ✈️
+✈️git push -u origin nombre-de-la-rama       ✈️
 ✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️
 git pull origin nombre-de-la-rama  /// actualizar la rama
 
