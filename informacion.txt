@@ -110,3 +110,11 @@ Haz clic en cada una y luego en "Quitar" o "Eliminar".
 
 https://www.youtube.com/watch?v=bDhhm--nTv4
 
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+  git remote remove origin
+  git remote add origin https://github.com/usuario/nuevo-repo.git  // esta para quitar y cambiar 
+
+  git remote set-url origin https://github.com/usuario/nuevo-repo.git  esta para acceder a esta nueva
+
+
+
