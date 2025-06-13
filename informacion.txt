@@ -25,6 +25,10 @@ git config --global user.email "tucorreo@ejemplo.com"
 git config user.name
 git config user.email
 
+git config --get user.name   verifica el usuario 
+git config --local --list mostrar la lista de usuario
+git config user.name "usuarionuevo" cambia nuevo usuario
+
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 ----------------------------------------------------------
 
