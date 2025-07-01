@@ -92,8 +92,9 @@ git push -u origin "tu rama"  ///esto ya sube al repositorio
 git push -u origin nombre-de-la-rama    teneiendo en cuenta que es la rama local la que va subir
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
+😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬
+git push -u origin guillo --force  ------> esto si quieren pasar lo ue esta en local y no coinciden con lo del remoto pero quiere quede el local
+😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬
 cuando hay usuarios globales no permite hacer push
 Presiona Win + S (o abre el menú Inicio).
 
