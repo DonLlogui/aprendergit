@@ -1,4 +1,12 @@
-iniciar git   ---->>> git init
+paso 1 iniciar git   ---->>> git init
+paso 2 git config --get user.name  xxxxx
+paso 3 git config user.email   xxxxxx
+paso 4 git checkout -b xxxxxx
+paso 5 git add .
+paso 6 git commit -m "XXXXXXXXXX" 
+paso 7 ------------------
+paso 8 git remote add origin https://github.com/xxxxxxxxseguido usuario repositorio y el repositorio
+paso 9 git push -u origin xxxxxxx
 
 
 👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂configurar👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂
