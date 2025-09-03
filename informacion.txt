@@ -4,7 +4,7 @@ paso 3 git config user.email   xxxxxx
 paso 4 git checkout -b xxxxxx
 paso 5 git add .
 paso 6 git commit -m "XXXXXXXXXX" 
-paso 7 ------------------
+paso 7 git branch -M "XXXXXX"   ---> este crea rama en la nube
 paso 8 git remote add origin https://github.com/xxxxxxxxseguido usuario repositorio y el repositorio
 paso 9 git push -u origin xxxxxxx
 
