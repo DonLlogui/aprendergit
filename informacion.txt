@@ -7,7 +7,11 @@ paso 6 git commit -m "XXXXXXXXXX"
 paso 7 git branch -M "XXXXXX"   ---> este crea rama en la nube
 paso 8 git remote add origin https://github.com/xxxxxxxxseguido usuario repositorio y el repositorio
 paso 9 git push -u origin xxxxxxx
-
+👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂modificar👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂
+paso 1 iniciar git   ---->>> git init
+paso 2 git add .
+paso 3 git commit -m "XXXXXXXXXX"
+paso 4 git push -u origin xxxxxxx(esta es la rama remota)
 
 👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂configurar👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂👂
 ----Esto es en el proyecto con el ide visual code solo para 
