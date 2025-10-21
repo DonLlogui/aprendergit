@@ -1,5 +1,5 @@
 paso 1 iniciar git   ---->>> git init
-paso 2 git config --get user.name  xxxxx
+paso 2 git config user.name  xxxxx
 paso 3 git config user.email   xxxxxx
 paso 4 git checkout -b xxxxxx
 paso 5 git add .
